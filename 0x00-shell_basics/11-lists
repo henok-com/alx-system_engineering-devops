@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al -r /home /home/alx-system_engineering-devops /boot
+ls -a . .. /boot
